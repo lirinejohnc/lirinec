@@ -1,2 +1,0 @@
-# lirinec
-lirine john c
